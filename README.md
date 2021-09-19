@@ -1,6 +1,3 @@
-
-https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg
-
 ### Hi there 👋 ! Here it is what I am working On!
 
 
