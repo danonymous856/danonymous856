@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Bachelor in Electronics and Computer Science !
 - 🌱 I’m currently learning ...DSA in java
 - 👯 I’m looking to collaborate on ...AI and ML Probs
-- 🤔 I’m looking for help with ...Python and R !!
+- 🤔 I’m looking for help with ...Python ,R and GoLang !!
 - 💬 Ask me about ...Django and DSA Stuffs in python
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
