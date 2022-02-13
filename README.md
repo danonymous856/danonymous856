@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Bachelor in Electronics and Computer Science !
-- 🌱 I’m currently learning ...![Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://user-images.githubusercontent.com/81114860/153767484-595bff97-7dcf-416d-921c-16f4730833cf.jpg)
+- 🌱 I’m currently learning ...[this book](https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTNeuYbOc13pYqrlf0sYZx3jK6F2uSpcrmTC45WueTQeClybN2UZnjNX3uHKQ0QnNsg5_Qcl5DiXdQ&usqp=CAc)
+  ![Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://user-images.githubusercontent.com/81114860/153767484-595bff97-7dcf-416d-921c-16f4730833cf.jpg)
 - 👯 I’m looking to collaborate on ...AI and ML Probs
 - 🤔 I’m looking for help with ...Python ,R and GoLang !!
 - 💬 Ask me about ...Django and DSA Stuffs in python
