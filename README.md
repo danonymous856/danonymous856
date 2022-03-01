@@ -1,8 +1,9 @@
-![AI?ML](https://img.freepik.com/free-vector/flat-minimal-technology-twitch-banner_23-2149088096.jpg?w=1380)
-
+<img src="https://www.infosensedigital.ai/images/ai-ml-banner.png" align="center" width="2000px" height="400px">
 
 <h1 align="center">Hi 👋, I'm Donald Laishram</h1>
 <h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerdy type.</h3>
+
+<img  align="right" width="400" src="https://octodex.github.com/images/privateinvestocat.jpg"> 
 
 <p align="left"> <a href="https://twitter.com/donl01444925" target="blank"><img src="https://img.shields.io/twitter/follow/donl01444925?logo=twitter&style=for-the-badge" alt="donl01444925" /></a> </p>
 
