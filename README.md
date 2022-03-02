@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Donald Laishram</h1>
 <h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerdy type.</h3>
 
-<img align="right" width="400" src="https://octodex.github.com/images/filmtocats.png" > 
+<img align="right" width="400" src="https://octodex.github.com/images/hula_loop_octodex03.gif" > 
 
 <p align="left"> <a href="https://twitter.com/donl01444925" target="blank"><img src="https://img.shields.io/twitter/follow/donl01444925?logo=twitter&style=for-the-badge" alt="donl01444925" /></a> </p>
 
