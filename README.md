@@ -1,6 +1,6 @@
 <img src="https://www.infosensedigital.ai/images/ai-ml-banner.png" align="center" width="2000px" height="400px">
 
-<h1 align="center">Hi 👋, I'm Donald Laishram</h1>
+<h1 align="center">Hi 👋 , I'm Donald Laishram</h1>
 <h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerdy type.</h3>
 
 <img align="right" width="400" src="https://octodex.github.com/images/Fintechtocat.png" > 
