@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **donaldlaishram861@gmail.com**
 
-- ⚡ Fun fact **I Am an otaku, Footballer.**
+- ⚡ Fun fact **I Am an otaku.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
