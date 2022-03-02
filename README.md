@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **MERN stack, cloud stuffs, linux kernels**
 
-- 💬 Ask me about **Python, git & Github, Vim, Nano, Java, kali cli**
+- 💬 Ask me about **Django,Python, git & Github, Vim, Nano, Java, kali cli**
 
 - 📫 How to reach me **donaldlaishram861@gmail.com**
 
