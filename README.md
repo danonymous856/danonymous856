@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Django, Python, Java, GO Projects**
 
-- 🤝 I’m looking for help with **MERN stack, cloud stuffs, linux kernels**
+- 🤝 I’m looking for help with **MERN stack, cloud stuffs, linux kernels kubernetes and Docker( containers )**
 
 - 💬 Ask me about **Django,Python, git & Github, Vim, Nano, Java, kali cli**
 
