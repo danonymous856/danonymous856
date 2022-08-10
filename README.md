@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/1b/60/9c/1b609c74e1a806851c2f284fc02c3e24.gif" align="center" width="2000px" height="350px">
+<img src="https://i.pinimg.com/originals/1b/60/9c/1b609c74e1a806851c2f284fc02c3e24.gif" align="center" width="200px" height="400px">
 
 <h1 align="center">Hi👋, I'm Donald Laishram</h1>
 <h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerdy type.</h3>
