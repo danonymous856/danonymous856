@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
-- 🌱 I’m currently learning **Bachelor's in Electronics and Computer Science**
+- 🌱 I’m currently pursuing **Bachelor's in Electronics and Computer Science**
 
 - 👯 I’m looking to collaborate on **Django, Python, Java, GO Projects**
 
