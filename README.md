@@ -1,9 +1,11 @@
 <img src="https://i.pinimg.com/originals/1b/60/9c/1b609c74e1a806851c2f284fc02c3e24.gif" align="center" width="800px" height="400px">
 
 <h1 align="center">Hi👋, I'm Donald Laishram</h1>
-<h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerdy type.</h3>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qgbrbofbai5ib33za26txjzuki&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 <img align="right" width="400" src="https://octodex.github.com/images/gobbleotron.gif"> 
+
+<h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerdy type.</h3>
 
 <p align="left"> <a href="https://twitter.com/donl01444925" target="blank"><img src="https://img.shields.io/twitter/follow/donl01444925?logo=twitter&style=for-the-badge" alt="donl01444925" /></a> </p>
 
