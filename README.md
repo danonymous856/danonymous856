@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Django,Python, git & Github, Vim, Nano, Java, kali cli**
 
-- 📫 How to reach me **donaldlaishram861@gmail.com**
+- 📫 How to reach me **donaldlaishram2k2@gmail.com**
 
 - ⚡ Fun fact **I Am an otaku.**
 
