@@ -7,7 +7,7 @@
 <img align="right" width="400" src="https://octodex.github.com/images/gobbleotron.gif"> 
 
 
-<h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerdy .</h3>
+<h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerd .</h3>
 
 <p align="left"> <a href="https://twitter.com/donl01444925" target="blank"><img src="https://img.shields.io/twitter/follow/donl01444925?logo=twitter&style=for-the-badge" alt="donl01444925" /></a> </p>
 
