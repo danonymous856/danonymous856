@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm Donald Laishram</h1>
 
-(https://github.com/kittinan/spotify-github-profile)
 <img align="right" width="400" src="https://octodex.github.com/images/gobbleotron.gif"> 
 
 
