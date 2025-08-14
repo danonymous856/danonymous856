@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Donald Laishram</h1>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qgbrbofbai5ib33za26txjzuki&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+(https://github.com/kittinan/spotify-github-profile)
 <img align="right" width="400" src="https://octodex.github.com/images/gobbleotron.gif"> 
 
 
