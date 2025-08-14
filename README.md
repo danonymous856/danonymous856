@@ -1,6 +1,3 @@
-![RC_header_footer](https://github.com/danonymous856/danonymous856/assets/81114860/e90af1e0-bc49-4d12-a0c7-b6f9723b7778)
-
-
 <h1 align="center">Hi👋, I'm Donald Laishram</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qgbrbofbai5ib33za26txjzuki&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
@@ -39,8 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danonymous856&show_icons=true&locale=en" alt="danonymous856" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danonymous856&" alt="danonymous856" /></p>
-
-
-
-
-
