@@ -3,11 +3,11 @@
 <img align="right" width="400" src="https://octodex.github.com/images/gobbleotron.gif"> 
 
 
-<h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, hacking nerd .</h3>
+<h3 align="center">A passionate software developer from India. Mostly backend, AI/ML 🤖, Automation,Agentic AI, hacking nerd .</h3>
 
 <p align="left"> <a href="https://twitter.com/donl01444925" target="blank"><img src="https://img.shields.io/twitter/follow/donl01444925?logo=twitter&style=for-the-badge" alt="donl01444925" /></a> </p>
 
-- 🔭 I’m currently working on [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- 🔭 I’m currently working as an Automation Engineer trainee at Datamatics(https://www.datamatics.com/)
 
 - 🌱 I’m currently pursuing **Bachelor's in Electronics and Computer Science**
 
